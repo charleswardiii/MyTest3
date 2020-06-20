@@ -71,7 +71,7 @@ Partial Class Form1
         Me.PictureBox1.Image = Global.MyTest3.My.Resources.Resources.Koala_small
         Me.PictureBox1.Location = New System.Drawing.Point(185, 169)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(292, 227)
+        Me.PictureBox1.Size = New System.Drawing.Size(222, 202)
         Me.PictureBox1.TabIndex = 4
         Me.PictureBox1.TabStop = False
         '
